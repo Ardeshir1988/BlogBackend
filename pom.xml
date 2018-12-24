@@ -67,6 +67,11 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+                <configuration>
+                    <finalName>
+                        blog-backend
+                    </finalName>
+                </configuration>
             </plugin>
         </plugins>
     </build>
