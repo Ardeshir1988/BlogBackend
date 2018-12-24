@@ -1,16 +1,16 @@
 # BlogBackend 
-This project is backend part of my personal blog ardeshirahouri.ir which written in java
-And also frontend part available on BlogUI repository.
+This project is backend part of my personal blog <https://ardeshirahouri.ir> which written in java </br>
+And also frontend part available on BlogUI repository.</br>
 
 # About My Blog
-Blog project includes:
-frontend => Angular7 , bootstrap 4
-backend => spring-boot2, spring-data, spring-security (jjwt) 
+Blog project includes:</br>
+frontend => Angular7 , bootstrap 4</br>
+backend => spring-boot2, spring-data, spring-security (jjwt) </br>
 CI/CD => git, jenkins, docker
-It can be useful sample for everyone who curious about these technologies.
+It can be useful sample for everyone who curious about these technologies.</br>
+</br>
+Here is NOT end of story,</br>
+The main goal is create place for sharing my experience in software development.</br>
+First objective is interpretation and explanation all items of Effective Java book.</br>
 
-### Here is NOT end of story,
-The main goal is create place for sharing my experience in software development.
-First objective is interpretation and explanation all items of Effective Java book.
-
-Also i will improve pitfalls and bugs continuously.
+Also i will improve pitfalls and bugs continuously.</br>
