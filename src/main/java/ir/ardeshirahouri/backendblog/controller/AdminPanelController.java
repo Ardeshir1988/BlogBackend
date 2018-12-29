@@ -52,7 +52,6 @@ public class AdminPanelController {
     }
     @PostMapping("/post")
     public ResponseEntity<?> savePost(@RequestBody Post post) {
-        post.setPostView(0);
         return new ResponseEntity<>(postService.saveAndUpdatePost(post),HttpStatus.OK);
     }
 //    @PutMapping("/post")
